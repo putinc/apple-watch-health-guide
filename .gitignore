@@ -1,0 +1,11 @@
+.DS_Store
+*.zip
+*.log
+*.apk
+*.pk8
+*.p7b
+*.pem
+.env
+identity/
+runtime/
+.venv/
